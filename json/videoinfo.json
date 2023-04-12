@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Butterfly",
+    "time": "45 seconds",
+    "thumbnail": "assets/ElephantsDream.jpg",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
+  },
+  {
+    "title": "Owl",
+    "time": "55 seconds",
+    "thumbnail": "assets/owl.png",
+    "videoUrl": "https://user-images.githubusercontent.com/70715305/174163866-72e76540-1982-4e8a-bb40-383cf3ca2491.mp4"
+  },
+  {
+    "title": "Elephants Dream",
+    "time": "60 seconds",
+    "thumbnail": "assets/BigBuckBunny.jpg",
+    "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  },
+  {
+    "title": "ExampleVideo",
+    "time": "120 seconds",
+    "thumbnail": "assets/Car.jpg",
+    "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4"
+  }
+
+]
